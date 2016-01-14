@@ -1,0 +1,14 @@
+{
+  "name": "puppet-installatron",
+  "version": "0.0.1",
+  "author": "sensson",
+  "summary": "This module manages Installatron.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/sensson/puppet-installatron/",
+  "project_page": "https://github.com/sensson/puppet-installatron/",
+  "issues_url": "https://github.com/sensson/puppet-installatron/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
